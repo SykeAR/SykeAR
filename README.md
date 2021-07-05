@@ -2,9 +2,7 @@
 - 👀 I’m interested in Jailbreaking 
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Ios Jailbreaking
-- 📫 How to reach me 
-
-Twitter:@ItsRedPrimeArmy
+- 📫 How to reach me Twitter:@ItsRedPrimeArmy
 
 <!---
 SykeAR/SykeAR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
